@@ -55,7 +55,7 @@ Second line, life: study, work, relationships, travel, personal opinions. Life d
 
 - Free second-level domains through the PublicFreeSuffix project, with NS delegation so your DNS stays under your control
 - Free global DNS resolution powered by Bunny.net, managed from the community panel
-- Nssnap Coin (TGC): earn points by showing up, contributing and helping others, then tip friends, send red envelopes or trade services in the community store
+- Nssnap points (NPC): earn points by showing up, contributing and helping others, then tip friends, send red envelopes or trade services in the community store
 - Member name colors and effects, storage space and community merchandise
 - Installable as a PWA, native apps on the way
 
@@ -79,7 +79,7 @@ And if you just want a quiet place to watch people tinker, come on in. Someone w
 1. Answers. Questions get answered, answers have quality, and it is written into how the community works, not just said
 2. A record you can take with you. Posts sort by date, export in one click and subscribe over RSS
 3. Proof of growth. Badges reward helping and persistence, not traffic
-4. Real perks. Free domains and DNS, TGC points, name colors. The more you take part, the more comes back
+4. Real perks. Free domains and DNS, NPC points, name colors. The more you take part, the more comes back
 5. People. From domains to super intelligence, from tech to life. Equal, kind, helpful, altruistic. Your seat is saved
 
 ## Why join
@@ -123,7 +123,7 @@ Registration is free for a limited time. The [announcement post](https://nssnap.
 | [Sign up](https://nssnap.com/register) | Join the community |
 | [Explore](https://nssnap.com/explore) | See what people are talking about |
 | [Domain service](https://nssnap.com/domains) | Free member domains and DNS management |
-| [Points](https://nssnap.com/points) | Nssnap Coin (TGC) center |
+| [Points](https://nssnap.com/points) | Nssnap points (NPC) center |
 | [Announcement post](https://nssnap.com/post/966455169006057538) | The full introduction and community beliefs |
 | [RSS](https://nssnap.com/feed.xml) | Subscribe to everything |
 
