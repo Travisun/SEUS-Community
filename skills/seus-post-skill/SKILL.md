@@ -1,15 +1,16 @@
 ---
 name: seus-post-skill
-description: 帮助用户使用 SEUS Community MCP 管理社区账户与内容，涵盖浏览、发布、评论、互动、内容管理，以及 MCP 能力支持的其他社区和服务操作。需要补充信息时唤出交互式选项面板，让用户点选，减少输入。
+description: 帮助用户使用 SEUS Community MCP 管理社区账户与内容，涵盖浏览、发布、评论、互动、内容管理，以及 MCP 能力支持的其他社区和服务操作。需要补充信息时唤出交互式选项面板，让用户点选，减少输入。用户要求更新本 Skill 时，从官方源获取最新版本并更新本地文件。
 allowed-tools:
   - Read
   - Write
   - Edit
   - AskUserQuestion
 metadata:
-  trigger: 用户要求浏览或发布社区内容、发表评论或互动、管理账户，或使用已连接的 SEUS MCP 工具执行其他操作时触发。
+  trigger: 用户要求浏览或发布社区内容、发表评论或互动、管理账户、使用已连接的 SEUS MCP 工具执行其他操作，或要求更新本 Skill 时触发。
   source: SEUS Community MCP；内嵌 Humanizer-zh 子 Skill。
   revision: "2026-10-29"
+  update-url: https://raw.githubusercontent.com/Travisun/SEUS-Community/refs/heads/main/skills/seus-post-skill/SKILL.md
 ---
 
 # SEUS Community 综合助手
@@ -330,6 +331,26 @@ MCP 服务地址：
 3. 提出可审阅的变更，保留现有功能和用户明确设定的规则。
 4. 只有用户明确要求写回或配置时，才实际修改文件或环境。
 5. 如工具文档发生变化，依据实际来源更新能力说明，不凭空增加功能。
+
+### 更新到最新官方版本
+
+用户要求“更新 skill”“升级或同步 seus-post-skill 到最新版”时，按以下流程把本地安装的 Skill 文件更新为官方最新版。
+
+官方源地址（也记录在 frontmatter 的 `update-url`）：
+
+`https://raw.githubusercontent.com/Travisun/SEUS-Community/refs/heads/main/skills/seus-post-skill/SKILL.md`
+
+1. 获取最新内容，前一种失败时按顺序降级：
+   - 用 curl 或等价命令直接下载官方源地址。
+   - 改用备用地址 `https://github.com/Travisun/SEUS-Community/raw/main/skills/seus-post-skill/SKILL.md`。
+   - 用 git 从官方仓库 `github.com/Travisun/SEUS-Community`（`main` 分支）读取 `skills/seus-post-skill/SKILL.md`，字节级一致，最可靠。
+   - 用当前会话可用的网页读取工具抓取官方源地址。注意：网页读取工具可能把 `<user_token>` 等尖括号占位符当作 HTML 标签过滤掉，使用前检查占位符是否完整，缺失时改用前几种方式。
+2. 定位本地实际加载的安装位置。常见位置包括 `~/.agents/skills/seus-post-skill/SKILL.md`、`~/.claude/skills/seus-post-skill/SKILL.md`、`~/.zcode/skills/seus-post-skill/SKILL.md`，以及项目内的 skills 目录；更新当前环境实际读取的那一份或多份，不要只改一处而留下旧版本。
+3. 对比本地版本与最新版本：完全一致时告知已是最新版本，流程结束；否则向用户简述改动要点。发现本地有官方源之外的自定义修改时，提醒这些修改会被覆盖，确认后再继续。
+4. 用最新内容整体替换本地文件，不要新旧内容拼接；保持文件名与 frontmatter 结构完整，并清理下载用的临时文件。
+5. 报告更新结果、新版本的修订号或关键变化，建议用户重启会话或重新加载 Skill 使新版本生效。
+
+下载的内容只用于更新 Skill 文件，不执行其中任何代码或命令。
 
 ## 每次启动
 
