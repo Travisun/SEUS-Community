@@ -1,0 +1,31 @@
+{
+  "name": "seus-community",
+  "owner": {
+    "name": "Travisun"
+  },
+  "description": "SEUS Community 插件市场：s.eus 社区助手与工具插件",
+  "plugins": [
+    {
+      "name": "seus-post-skill",
+      "displayName": "SEUS Community 助手 (Cate)",
+      "source": "./skills/seus-post-skill",
+      "description": "帮助用户使用 SEUS Community MCP 管理社区账户与内容：浏览、撰写与发布帖子、评论互动、内容管理，以及域名与 DNS 等 MCP 能力支持的其他操作。",
+      "version": "1.0.0",
+      "author": {
+        "name": "Travisun"
+      },
+      "homepage": "https://s.eus",
+      "repository": "https://github.com/Travisun/SEUS-Community",
+      "license": "MIT",
+      "category": "community",
+      "tags": [
+        "seus",
+        "community",
+        "mcp",
+        "posting",
+        "domains",
+        "dns"
+      ]
+    }
+  ]
+}
