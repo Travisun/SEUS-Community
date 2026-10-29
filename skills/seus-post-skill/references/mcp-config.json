@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "SEUS Community": {
+      "url": "https://s.eus/api/mcp",
+      "headers": {
+        "Authorization": "Bearer <user_token>"
+      }
+    }
+  }
+}
