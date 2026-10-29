@@ -1,22 +1,24 @@
 <div align="center">
 
-# Nssnap Community
+# SEUS Community
 
 **The community for hosting, domain names, servers, software and super intelligence (SI/AI)**
 
 Domain Name, Server, Software and Super Intelligence, In a Snap.
 
+Also known as Nssnap Community
+
 [简体中文](README.md) | English
 
-**[nssnap.com](https://nssnap.com)** · [Join free](https://nssnap.com/register) · [Announcement post](https://nssnap.com/post/966455169006057538)
+**[s.eus](https://s.eus)** · [Join free](https://s.eus/register) · [Announcement post](https://s.eus/post/966455169006057538)
 
 </div>
 
 ---
 
-## What is Nssnap
+## What is SEUS
 
-Nssnap Community (nssnap.com) is a place to talk about hosting, domain names, servers, software and super intelligence (SI/AI), plus study, work and life beyond tech. Whether you are registering your first domain or running hundreds of servers, every exchange you start gets a serious answer.
+SEUS Community (s.eus, also known as Nssnap Community) is a place to talk about hosting, domain names, servers, software and super intelligence (SI/AI), plus study, work and life beyond tech. Whether you are registering your first domain or running hundreds of servers, every exchange you start gets a serious answer.
 
 The house rule is simple: beginners can ask anything, and someone will answer. Good questions don't wait long. Good answers stay, like snapshots, ready for the next person who runs into the same problem. The community favors altruistic content, because we believe what people write is worth reading more than AI-generated pages.
 
@@ -24,15 +26,16 @@ Posts are auto-translated, so friends from different countries can talk in the s
 
 ## The name
 
-Nssnap comes from NS and Snap.
+Write the domain out in one piece and SEUS is s.eus itself: four letters, quick to type.
 
 | Part | Meaning |
 | --- | --- |
-| N | New, and the N of Domain Name. Everything starts with a good domain |
-| S | Server, Super Intelligence, Software. Today's hottest tech topics, in one letter |
-| Snap | A snapshot, and "in a snap". Ask, talk, find your people, all in one place |
+| S | Nine words that start with S: Share, Super Intelligence, Science, Software, Systems, Security, Servers, Saving, Solution |
+| EUS | Reads as "to us". All of it, shared with everyone here |
 
-S also stands for every S friend around you: Student, Scientist, Sysadmin, Software Engineer, Singer, Screenwriter and more. Tech is the main line here. People are what make it.
+S also stands for every S friend around you: Student, Scientist, Sysadmin, Software Engineer, Singer, Screenwriter and more. Tech is the main line here. People are what make it, and SEUS ends in US for exactly that reason.
+
+The name Nssnap lives on as an alias, from NS and Snap: everything starts with a good domain, and good answers stay like snapshots. Both ideas came along to the new home.
 
 ## What we talk about
 
@@ -40,7 +43,7 @@ Main line, tech: domain names, hosting, servers, software, super intelligence (S
 
 Second line, life: study, work, relationships, travel, personal opinions. Life deserves a serious conversation too.
 
-[Browse what people are posting right now](https://nssnap.com/explore)
+[Browse what people are posting right now](https://s.eus/explore)
 
 ## What the community offers
 
@@ -93,7 +96,7 @@ There are plenty of places to talk tech. Each one asks you to trade something aw
 | Group chats | Fast replies, but messages vanish, and that answer from three years ago is gone |
 | AI assistants | Instant answers, no peers, and nobody to double-check them |
 
-Nssnap tries to give you both, the speed of a reply and the depth of an archive. We don't run on traffic, we run on responses. Good questions shouldn't wait.
+SEUS tries to give you both, the speed of a reply and the depth of an archive. We don't run on traffic, we run on responses. Good questions shouldn't wait.
 
 ## Community spirit
 
@@ -107,28 +110,36 @@ Altruism, leave your answer for the next person searching.
 
 > Equal, kind, helpful, altruistic. Friends from around the world gather here. Your seat is saved.
 
+## Bring your AI
+
+SEUS ships an MCP (Model Context Protocol) server, so an AI assistant can browse, draft, post and manage content on your behalf.
+
+- MCP endpoint: `https://s.eus/api/mcp`
+- Quickstart docs: [SEUS MCP docs](https://s.eus/ai-md/docs/getting-started/quickstart)
+- Official posting skill: [skills/seus-post-skill/SKILL.md](skills/seus-post-skill/SKILL.md), a complete write, verify and publish workflow for AI agents that support Agent Skills
+
 ## How to join
 
-1. Open [nssnap.com](https://nssnap.com) and sign in with GitHub, Google, Discord, Linux.do or Cloudflare, or register with email
+1. Open [s.eus](https://s.eus) and sign in with GitHub, Google, Discord, Linux.do or Cloudflare, or register with email
 2. Write your first post. A question, a note on something you built, or just a hello
 3. Follow a few people you find interesting, and the timeline starts to feel like yours
 
-Registration is free for a limited time. The [announcement post](https://nssnap.com/post/966455169006057538) tells the full story.
+Registration is free for a limited time. The [announcement post](https://s.eus/post/966455169006057538) tells the full story.
 
 ## Links
 
 | Link | What it is |
 | --- | --- |
-| [nssnap.com](https://nssnap.com) | Community home |
-| [Sign up](https://nssnap.com/register) | Join the community |
-| [Explore](https://nssnap.com/explore) | See what people are talking about |
-| [Domain service](https://nssnap.com/domains) | Free member domains and DNS management |
-| [Points](https://nssnap.com/points) | Nssnap points (NPC) center |
-| [Announcement post](https://nssnap.com/post/966455169006057538) | The full introduction and community beliefs |
-| [RSS](https://nssnap.com/feed.xml) | Subscribe to everything |
+| [s.eus](https://s.eus) | Community home |
+| [Sign up](https://s.eus/register) | Join the community |
+| [Explore](https://s.eus/explore) | See what people are talking about |
+| [Domain service](https://s.eus/domains) | Free member domains and DNS management |
+| [Points](https://s.eus/points) | Nssnap points (NPC) center |
+| [Announcement post](https://s.eus/post/966455169006057538) | The full introduction and community beliefs |
+| [RSS](https://s.eus/feed.xml) | Subscribe to everything |
 
 ## License
 
 The content of this repository is released under the [MIT License](LICENSE).
 
-This is the official introduction repository of Nssnap Community. If it helped you get to know us, a Star is appreciated, and a first post is even better.
+This is the official introduction repository of SEUS Community. If it helped you get to know us, a Star is appreciated, and a first post is even better.

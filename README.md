@@ -1,22 +1,24 @@
 <div align="center">
 
-# Nssnap Community
+# SEUS Community
 
 **主机、域名、服务器、软件和超级智能（SI/AI）交流社区**
 
 Domain Name, Server, Software and Super Intelligence, In a Snap.
 
+又名 Nssnap Community
+
 [简体中文](README.md) | [English](README.en.md)
 
-**[nssnap.com](https://nssnap.com)** · [立即注册](https://nssnap.com/register) · [社区介绍与理念](https://nssnap.com/post/966455169006057538)
+**[s.eus](https://s.eus)** · [立即注册](https://s.eus/register) · [社区介绍与理念](https://s.eus/post/966455169006057538)
 
 </div>
 
 ---
 
-## Nssnap 是什么
+## SEUS 是什么
 
-Nssnap Community（nssnap.com）是一个聊主机、域名、服务器、软件和超级智能（SI/AI）的交流社区，也聊学习、工作与生活。无论你是第一次买域名的新手，还是管着成百上千台服务器的资深工程师，每一次交流都有高质量的回应。
+SEUS Community（s.eus，又名 Nssnap Community）是一个聊主机、域名、服务器、软件和超级智能（SI/AI）的交流社区，也聊学习、工作与生活。无论你是第一次买域名的新手，还是管着成百上千台服务器的资深工程师，每一次交流都有高质量的回应。
 
 这里有个简单的约定，新手敢问，有问必答。好问题不必久等，答案一键即达（In a Snap），讨论沉淀下来，像快照一样留给下一个搜索的人。社区推荐利他的内容，相信人写下的东西，比 AI 生成的网页更值得被读到。
 
@@ -24,15 +26,16 @@ Nssnap Community（nssnap.com）是一个聊主机、域名、服务器、软件
 
 ## 名字的由来
 
-Nssnap 由 NS 和 Snap 两段意思咬合而成。
+把域名连起来写，SEUS 就是 s.eus 本身，四个字母，输入即达。
 
 | 语源 | 含义 |
 | --- | --- |
-| N | New，也是 Domain Name 的 N。一切从一个好域名开始 |
-| S | Server、Super Intelligence、Software，当下最热的技术话题装进一个字母里 |
-| Snap | 快照，更是一键触达。提问、交流、找到同好，一站式完成 |
+| S | 九个 S 开头的词：Share、Super Intelligence、Science、Software、Systems、Security、Servers、Saving、Solution |
+| EUS | 读作 to us。以上种种，分享给在座的每一个人 |
 
-S 也代表身边的每一位 S 朋友，Student、Scientist、Sysadmin、Software Engineer、Singer、Screenwriter，等等。技术是主线，人才是最重要的部分。
+S 也代表身边的每一位 S 朋友，Student、Scientist、Sysadmin、Software Engineer、Singer、Screenwriter，等等。技术是主线，人才是最重要的部分，SEUS 的结尾是 US，这层意思就写在名字里。
+
+Nssnap 这个名字仍在使用，由 NS 和 Snap 咬合而成。一切从一个好域名开始，好答案像快照一样沉淀，这两层意思都跟了过来。
 
 ## 我们在聊什么
 
@@ -40,7 +43,7 @@ S 也代表身边的每一位 S 朋友，Student、Scientist、Sysadmin、Softwa
 
 主线二，生活。学习、工作、情感、旅行、个人观点。技术之外，生活同样值得认真聊。
 
-[去看看大家正在聊什么](https://nssnap.com/explore)
+[去看看大家正在聊什么](https://s.eus/explore)
 
 ## 社区提供什么
 
@@ -93,7 +96,7 @@ S 也代表身边的每一位 S 朋友，Student、Scientist、Sysadmin、Softwa
 | 即时群聊 | 回应快，但消息即焚，三年前那个答案再也捞不回来 |
 | AI 问答助手 | 秒答，但没有 peers，答案对不对没人帮你把关 |
 
-Nssnap 想同时给出回应的速度和沉淀的深度。我们不经营流量，我们经营回应。好问题，不必久等。
+SEUS 想同时给出回应的速度和沉淀的深度。我们不经营流量，我们经营回应。好问题，不必久等。
 
 ## 社区精神
 
@@ -107,28 +110,36 @@ Nssnap 想同时给出回应的速度和沉淀的深度。我们不经营流量�
 
 > 平等、友爱、互助、利他，全球的朋友在这里相聚。你的座位已经留好。
 
+## 用 AI 参与社区
+
+SEUS 提供 MCP（Model Context Protocol）服务，AI 助手可以代你浏览、撰写、发布帖子和管理内容。
+
+- MCP 服务地址：`https://s.eus/api/mcp`
+- 快速开始文档：[SEUS MCP 文档](https://s.eus/zh/ai-md/docs/getting-started/quickstart)
+- 官方发布 Skill：[skills/seus-post-skill/SKILL.md](skills/seus-post-skill/SKILL.md)，内含完整的写作、核实与发布流程，适用于支持 Agent Skills 的 AI 助手
+
 ## 如何加入
 
-1. 打开 [nssnap.com](https://nssnap.com)，用 GitHub、Google、Discord、Linux.do 或 Cloudflare 账号一键登录，或者邮箱注册
+1. 打开 [s.eus](https://s.eus)，用 GitHub、Google、Discord、Linux.do 或 Cloudflare 账号一键登录，或者邮箱注册
 2. 发你的第一个帖子。可以是一个问题，一段折腾记录，或者打个招呼
 3. 关注几位感兴趣的朋友，时间线就开始像你了
 
-目前限时免费开放注册。[这篇社区公告](https://nssnap.com/post/966455169006057538)有更完整的介绍与理念。
+目前限时免费开放注册。[这篇社区公告](https://s.eus/post/966455169006057538)有更完整的介绍与理念。
 
 ## 相关链接
 
 | 链接 | 说明 |
 | --- | --- |
-| [nssnap.com](https://nssnap.com) | 社区主页 |
-| [注册](https://nssnap.com/register) | 立即加入 |
-| [探索](https://nssnap.com/explore) | 看看大家正在聊什么 |
-| [域名服务](https://nssnap.com/domains) | 成员免费二级域名与 DNS 管理 |
-| [积分](https://nssnap.com/points) | NPC 积分中心 |
-| [社区公告帖](https://nssnap.com/post/966455169006057538) | 社区介绍与理念的完整版本 |
-| [RSS 订阅](https://nssnap.com/feed.xml) | 全站动态订阅 |
+| [s.eus](https://s.eus) | 社区主页 |
+| [注册](https://s.eus/register) | 立即加入 |
+| [探索](https://s.eus/explore) | 看看大家正在聊什么 |
+| [域名服务](https://s.eus/domains) | 成员免费二级域名与 DNS 管理 |
+| [积分](https://s.eus/points) | NPC 积分中心 |
+| [社区公告帖](https://s.eus/post/966455169006057538) | 社区介绍与理念的完整版本 |
+| [RSS 订阅](https://s.eus/feed.xml) | 全站动态订阅 |
 
 ## 许可证
 
 本仓库内容以 [MIT](LICENSE) 协议发布。
 
-这里是 Nssnap Community 的官方介绍仓库。如果这份介绍帮你认识了我们，欢迎给个 Star，发一个帖子更好。
+这里是 SEUS Community 的官方介绍仓库。如果这份介绍帮你认识了我们，欢迎给个 Star，发一个帖子更好。
